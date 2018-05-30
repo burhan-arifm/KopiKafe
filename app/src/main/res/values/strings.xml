@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KopiKafe</string>
+    <string name="priceKopi">5.0</string>
+    <string name="judulDetail">Detail Pemesanan</string>
+    <string name="judulTotal">Total</string>
+</resources>
